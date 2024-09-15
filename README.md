@@ -1,5 +1,5 @@
 
-# Project Title
+# STAYEASE
 
 # ![Project Logo](./assets/logo.png)
 
